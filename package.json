@@ -1,7 +1,7 @@
 {
   "name": "req-to-curl",
   "version": "0.1.0",
-  "description": "HTTP IncomingRequest translator to cURL",
+  "description": "HTTP IncomingMessage translator to cURL",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
