@@ -1,7 +1,7 @@
 {
-  "name": "typescript",
-  "version": "1.0.0",
-  "description": "TypeScript boilerplate",
+  "name": "req-to-curl",
+  "version": "0.1.0",
+  "description": "HTTP IncomingRequest translator to cURL",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -29,5 +29,8 @@
     "@swc/core": "^1.2.197",
     "mocha": "^10.0.0",
     "typescript": "^4.7.3"
+  },
+  "dependencies": {
+    "http-parser-js": "^0.5.6"
   }
 }
