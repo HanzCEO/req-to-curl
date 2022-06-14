@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dot-six/typescript.git"
+    "url": "git+https://github.com/HanzCEO/req-to-curl.git"
   },
   "keywords": [],
   "author": "Hanz <hanz@godot.id>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dot-six/typescript/issues"
+    "url": "https://github.com/HanzCEO/req-to-curl/issues"
   },
-  "homepage": "https://github.com/dot-six/typescript#readme",
+  "homepage": "https://github.com/HanzCEO/req-to-curl#readme",
   "files": [
     "/dist"
   ],
